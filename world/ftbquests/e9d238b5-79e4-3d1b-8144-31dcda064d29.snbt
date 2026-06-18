@@ -1,0 +1,24 @@
+{
+	version: 1
+	uuid: "e9d238b579e43d1b814431dcda064d29"
+	name: "dzackyluc#e9d238b5"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		06B5515FE776BEBA: 1
+	}
+	started: {
+		74DC667B840746B0: 1781713991804L
+		0000000000000001: 1781713991804L
+		06B5515FE776BEBA: 1781713991804L
+		14F820A255718CC8: 1781713991804L
+	}
+	completed: {
+		74DC667B840746B0: 1781713991804L
+		06B5515FE776BEBA: 1781713991804L
+	}
+	claimed_rewards: {
+		"e9d238b579e43d1b814431dcda064d29:7124A7E7D06B3B8A": 1781713999164L
+	}
+	player_data: { }
+}

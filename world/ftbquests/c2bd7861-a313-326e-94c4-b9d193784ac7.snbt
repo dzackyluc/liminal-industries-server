@@ -1,0 +1,21 @@
+{
+	version: 1
+	uuid: "c2bd7861a313326e94c4b9d193784ac7"
+	name: "Clark#c2bd7861"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		50A94EEA437E23DE: 1
+	}
+	started: {
+		7E0E4762C458A275: 1781717007111L
+		45A3201920266E62: 1781717007111L
+		0000000000000001: 1781717007111L
+		50A94EEA437E23DE: 1781717007111L
+	}
+	completed: {
+		50A94EEA437E23DE: 1781717007111L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

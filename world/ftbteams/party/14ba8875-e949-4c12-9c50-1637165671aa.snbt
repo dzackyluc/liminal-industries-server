@@ -1,0 +1,22 @@
+{
+	id: "14ba8875-e949-4c12-9c50-1637165671aa"
+	type: "party"
+	owner: "e9d238b5-79e4-3d1b-8144-31dcda064d29"
+	ranks: {
+		06d080dc-3e6f-3e55-8936-167c479f7ca9: "member"
+		e9d238b5-79e4-3d1b-8144-31dcda064d29: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "dzackyluc's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59A5"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1781714345751L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"dzackyluc\"}]}" }
+		{ from: "e9d238b5-79e4-3d1b-8144-31dcda064d29", date: 1781714345774L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"rieyza21\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1781714351064L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"rieyza21\"}]}" }
+	]
+	extra: { }
+}

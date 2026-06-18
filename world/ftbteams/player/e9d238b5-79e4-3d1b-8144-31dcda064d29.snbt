@@ -1,0 +1,15 @@
+{
+	id: "e9d238b5-79e4-3d1b-8144-31dcda064d29"
+	type: "player"
+	player_name: "dzackyluc"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "dzackyluc"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59A5"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

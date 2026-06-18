@@ -1,0 +1,17 @@
+{
+	id: "051c43b1-a4ba-3b11-9905-db23b1f4c394"
+	type: "player"
+	player_name: "ballsack"
+	ranks: {
+		051c43b1-a4ba-3b11-9905-db23b1f4c394: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ballsack"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D559FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

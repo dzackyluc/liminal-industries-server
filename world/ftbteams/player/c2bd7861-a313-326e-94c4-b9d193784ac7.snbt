@@ -1,0 +1,17 @@
+{
+	id: "c2bd7861-a313-326e-94c4-b9d193784ac7"
+	type: "player"
+	player_name: "Clark"
+	ranks: {
+		c2bd7861-a313-326e-94c4-b9d193784ac7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Clark"
+		"ftbteams:description": ""
+		"ftbteams:color": "#75FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

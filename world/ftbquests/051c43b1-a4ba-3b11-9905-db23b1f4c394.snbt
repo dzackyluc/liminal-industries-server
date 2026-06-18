@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "051c43b1a4ba3b119905db23b1f4c394"
+	name: "ballsack#051c43b1"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

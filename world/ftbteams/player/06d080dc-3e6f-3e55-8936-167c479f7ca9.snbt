@@ -1,0 +1,15 @@
+{
+	id: "06d080dc-3e6f-3e55-8936-167c479f7ca9"
+	type: "player"
+	player_name: "rieyza21"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "rieyza21"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFE559"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

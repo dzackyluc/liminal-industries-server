@@ -1,0 +1,24 @@
+{
+  "type": "backrooms:poolrooms",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "backrooms:the_poolrooms",
+      "layers": [
+        {
+          "block": "minecraft:barrier",
+          "height": 44
+        },
+        {
+          "block": "minecraft:air",
+          "height": 6
+        },
+        {
+          "block": "minecraft:barrier",
+          "height": 30
+        }
+      ],
+      "structure_overrides": []
+    }
+  }
+}
